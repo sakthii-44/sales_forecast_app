@@ -112,3 +112,4 @@ if uploaded_file:
         st.error("❌ Unicode decode error. Try saving your CSV in UTF-8 encoding or let the app auto-detect it.")
     except Exception as e:
         st.error(f"⚠️ An unexpected error occurred: {e}")
+# TEMP: Testing Git change detection
