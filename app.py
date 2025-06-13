@@ -103,7 +103,7 @@ if uploaded_file:
         ax.legend()
         plt.xticks(rotation=45)
         st.pyplot(fig)
-git 
+
         # --- Table ---
         st.subheader("📅 Forecast Table")
         st.dataframe(forecast_df)
