@@ -7,7 +7,7 @@ import chardet
 import io
 
 # --- Title ---
-st.title("📈 Store Sales Forecasting System")
+st.title("📈 Sales Forecasting System")
 st.markdown("Upload a sales CSV file. Forecasting the next 30 days using XGBoost.")
 
 # --- Upload CSV ---
